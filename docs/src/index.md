@@ -4,7 +4,7 @@ CurrentModule = SimpleConvection
 
 # SimpleConvection
 
-Documentation for [SimpleConvection](https://github.com/dubosipsl/SimpleConvection.jl).
+Documentation for [SimpleConvection](https://github.com/ClimFlows/SimpleConvection.jl).
 
 ```@index
 ```
