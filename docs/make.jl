@@ -6,7 +6,7 @@ DocMeta.setdocmeta!(SimpleConvection, :DocTestSetup, :(using SimpleConvection); 
 makedocs(;
     modules=[SimpleConvection],
     authors="Thomas Dubos <thomas.dubos@polytechnique.edu> and contributors",
-    sitename="SimpleConvection.jl",
+    sitename="SimpleConvection",
     format=Documenter.HTML(;
         canonical="https://climflows.github.io/SimpleConvection",
         edit_link="main",
