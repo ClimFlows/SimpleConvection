@@ -1,3 +1,3 @@
 var documenterSearchIndex = {"docs":
-[{"location":"#SimpleConvection","page":"Home","title":"SimpleConvection","text":"Documentation for SimpleConvection.\n\n","category":"section"}]
+[{"category":"section","location":"#SimpleConvection","page":"Home","text":"Documentation for SimpleConvection.\n\n","title":"SimpleConvection"}]
 }
