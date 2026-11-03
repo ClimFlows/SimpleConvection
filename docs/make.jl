@@ -8,7 +8,7 @@ makedocs(;
     authors="Thomas Dubos <thomas.dubos@polytechnique.edu> and contributors",
     sitename="SimpleConvection",
     format=Documenter.HTML(;
-        canonical="https://climflows.github.io/SimpleConvection",
+        canonical="https://ClimFlows.github.io/SimpleConvection",
         edit_link="main",
         assets=String[],
     ),
@@ -18,6 +18,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/ClimFlows/SimpleConvection.jl",
+    repo="github.com/ClimFlows/SimpleConvection",
     devbranch="main",
 )
